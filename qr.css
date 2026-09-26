@@ -1,0 +1,23 @@
+body{
+  font: black;
+  background-color: green;
+  display: flex;
+ align-items: center;
+}
+
+
+.QR {
+  background-color: blue;
+  border-radius: 29px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  margin-top: 2px;
+  border-color: blue;
+}
+
+
+h1{
+  font-weight: bold;
+  justify-content: center;
+  display: block;
+}

@@ -1,0 +1,95 @@
+h1{
+    color: black;
+    background-color: yellow;
+    cursor: pointer;
+    margin: 5px;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 3px;
+    margin: 1%;
+    
+}
+
+h2{
+        color: black;
+            background-color: yellow;
+            cursor: pointer;
+            margin: 5px;
+            height: fit-content;
+            width: fit-content;
+            border-radius: 3px;
+            margin: 3%;
+}
+
+
+label{
+    color: black;
+        background-color: yellow;
+        cursor: pointer;
+        margin: 5px;
+        height: fit-content;
+        width: fit-content;
+        border-radius: 3px;
+}
+
+input{
+        color: black;
+            background-color: yellow;
+            cursor: pointer;
+            margin: 5px;
+            height: fit-content;
+            width: fit-content;
+            border-radius: 3px;
+            align-self: center;
+            align-items: center;
+}
+
+
+textarea{
+    margin-block-end: auto;
+    height: fit-content;
+    width: fit-content;
+    overflow-wrap: break-word;
+    align-self: center;
+    align-items: center;
+}
+
+
+body{
+    color: aliceblue;
+    background-color: black;
+}
+
+
+h3{
+    margin: 5%;
+}
+
+footer{
+    color: red;
+    height: auto;
+    width: auto;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+article{
+    width: 150px;
+    line-height: normal;
+    border-radius: 5%;
+}
+
+
+section{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.access{
+    height: fit-content;
+    width: fit-content;\
+    color: grey;
+    cursor: pointer;
+}
